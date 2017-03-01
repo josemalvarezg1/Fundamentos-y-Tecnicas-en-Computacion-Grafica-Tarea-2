@@ -1,0 +1,33 @@
+﻿  Interface.cpp
+C:\Program Files\Windows Kits\8.1\Include\shared\minwindef.h(130): warning C4005: 'APIENTRY': redefinición de macro
+  C:\Users\José Manuel\documents\visual studio 2015\Projects\FCG.Tarea2_25038805\include\GLFW/glfw3.h(98): note: vea la definición anterior de 'APIENTRY'
+c:\users\josé manuel\documents\visual studio 2015\projects\fcg.tarea2_25038805\fcg.tarea2_25038805\Model.h(28): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+Interface.cpp(22): warning C4244: 'argumento': conversión de 'double' a 'GLint'; posible pérdida de datos
+Interface.cpp(36): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+Interface.cpp(39): warning C4800: 'int': forzando el valor a bool 'true' o 'false' (advertencia de rendimiento)
+Interface.cpp(40): warning C4800: 'int': forzando el valor a bool 'true' o 'false' (advertencia de rendimiento)
+Interface.cpp(41): warning C4800: 'int': forzando el valor a bool 'true' o 'false' (advertencia de rendimiento)
+Interface.cpp(42): warning C4800: 'int': forzando el valor a bool 'true' o 'false' (advertencia de rendimiento)
+Interface.cpp(78): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+Interface.cpp(79): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+Interface.cpp(80): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+Interface.cpp(84): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+Interface.cpp(85): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+Interface.cpp(88): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+Interface.cpp(89): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+Interface.cpp(90): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+Interface.cpp(91): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+Interface.cpp(100): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+Interface.cpp(103): warning C4305: '+=': truncamiento de 'double' a 'float'
+Interface.cpp(106): warning C4305: '-=': truncamiento de 'double' a 'float'
+Interface.cpp(178): warning C4800: 'const int': forzando el valor a bool 'true' o 'false' (advertencia de rendimiento)
+Interface.cpp(188): warning C4800: 'const int': forzando el valor a bool 'true' o 'false' (advertencia de rendimiento)
+Interface.cpp(198): warning C4800: 'const int': forzando el valor a bool 'true' o 'false' (advertencia de rendimiento)
+Interface.cpp(208): warning C4800: 'const int': forzando el valor a bool 'true' o 'false' (advertencia de rendimiento)
+Interface.cpp(218): warning C4800: 'const int': forzando el valor a bool 'true' o 'false' (advertencia de rendimiento)
+Interface.cpp(229): warning C4800: 'const int': forzando el valor a bool 'true' o 'false' (advertencia de rendimiento)
+  Generando código
+  All 1242 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Generación de código finalizada
+  FCG.Tarea2_25038805.vcxproj -> C:\Users\José Manuel\documents\visual studio 2015\Projects\FCG.Tarea2_25038805\Release\FCG.Tarea2_25038805.exe
+  FCG.Tarea2_25038805.vcxproj -> C:\Users\José Manuel\documents\visual studio 2015\Projects\FCG.Tarea2_25038805\Release\FCG.Tarea2_25038805.pdb (Full PDB)
